@@ -1,4 +1,4 @@
-name: linter
+name: yeslinter
 author: Pavan Chilukuri
 description: Runs linter on your PRs
 inputs:
